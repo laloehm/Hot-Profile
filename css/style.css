@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+
+/* Home */
+.home {
+    height: 100vh;
+}
+
+.home .aside .fab {
+    color: #e40139;
+}
+
+/* Nosotros */
+.nosotros {
+    background: #e40139;
+    color: #ffffff;
+}
+
+.title i {
+    font-size: 1rem;
+    color: #000;
+}
+
+/* Paquetes */
+.paquetes h2.title {
+    color: #e40139;
+}
+
+.paquetes h3 {
+    margin-bottom: 0;
+}
+
+/* Hot Gallery */
+.hot-gallery {
+    background: #000;
+}
+
+.hot-gallery h2.title {
+    color: #ffffff;
+}
+
+.hot-gallery h2.title i {
+    color: #e40139;
+}
+
+/* Footer */
+footer {
+    background: #474646;
+}
+
+hr {
+    background: #ffffff;
+    margin: 0;
+}
